@@ -28,5 +28,5 @@ This project explores global company layoffs across industries and countries usi
 
 ## Author
 **Dominion Ekoja**
-Aspiring Data Analyst | SQL | Data Analysis
+Data Analyst | SQL | Data Analysis
 
